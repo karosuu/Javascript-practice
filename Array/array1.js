@@ -6,6 +6,6 @@ console.log(famousSayings[2])
 console.log(famousSayings[3])
 
 let groceryList = ['bread', 'tomatoes', 'milk'];
-//We can change the value of the elents
+//We can change the value of the elements
 groceryList[1] = 'avocados'
 console.log(groceryList[1])
